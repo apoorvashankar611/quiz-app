@@ -1,5 +1,7 @@
 # Quiz Application
 
+Live Demo: https://quiz-app-cydk.vercel.app
+
 A clean, functional quiz application built with React and Vite that fetches trivia questions from the Open Trivia Database API. This project demonstrates core React concepts, state management, and API integration in a practical, real-world application.
 
 ##  Overview
