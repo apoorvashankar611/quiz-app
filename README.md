@@ -126,40 +126,40 @@ The build output will be in the `dist/` directory.
 5. **Auto-submit on timeout**: Quiz automatically submits when timer reaches 0
 6. **No pause functionality**: Timer runs continuously once started
 
-   Bonus Features Implemented
+## Bonus Features Implemented
 
-In addition to the core requirements, the following enhancements were implemented to improve usability, clarity, and overall user experience:
+- **In addition to the core requirements, the following enhancements were implemented to improve usability, clarity, and overall user experience:
 
-Bookmark Questions Feature
-Users can bookmark questions during the quiz for later review.
-If the user attempts to submit the quiz while bookmarked questions still exist, a confirmation prompt is shown asking whether they want to proceed with submission. This helps prevent accidental submissions and improves test-taking confidence.
+**Bookmark Questions Feature**
+- **Users can bookmark questions during the quiz for later review.
+- **If the user attempts to submit the quiz while bookmarked questions still exist, a confirmation prompt is shown asking whether they want to proceed with submission. This helps prevent accidental submissions and improves test-taking confidence.
 
-Progress Bar Indicator
-A progress bar is displayed at the top of the quiz interface, visually indicating how many questions have been completed out of the total. This gives users a clear sense of progress throughout the quiz.
+**Progress Bar Indicator**
+- **A progress bar is displayed at the top of the quiz interface, visually indicating how many questions have been completed out of the total. This gives users a clear sense of progress throughout the quiz.
 
-Dark / Light Mode Toggle
-Users can switch between dark and light themes at any time. The UI adapts seamlessly to both modes to improve accessibility and user comfort.
+**Dark / Light Mode Toggle**
+- **Users can switch between dark and light themes at any time. The UI adapts seamlessly to both modes to improve accessibility and user comfort.
 
-Performance-Based Confetti Animation
-If the user scores more than 80%, a celebratory confetti animation is displayed on the results page to provide positive feedback and motivation.
+**Performance-Based Confetti Animation**
+- **If the user scores more than 80%, a celebratory confetti animation is displayed on the results page to provide positive feedback and motivation.
 
-Performance Analytics on Results Page
-The final report includes performance analytics such as:
+**Performance Analytics on Results Page**
+- **The final report includes performance analytics such as:
 
-Number of questions attempted
+- **Number of questions attempted
 
-Correct vs incorrect answers
+**Correct vs incorrect answers**
 
-Overall score percentage
-This helps users clearly understand their performance beyond just the final score.
+- **Overall score percentage
+- **This helps users clearly understand their performance beyond just the final score.
 
-Smooth Navigation and Transitions
-Subtle transitions are applied while navigating between questions to ensure a smooth and intuitive quiz flow.
+**Smooth Navigation and Transitions**
+- **Subtle transitions are applied while navigating between questions to ensure a smooth and intuitive quiz flow.
 
-Responsive and Browser-Compatible Design
-The application is fully responsive and works reliably across modern browsers including Chrome, Firefox, and Edge.
+**Responsive and Browser-Compatible Design**
+- **The application is fully responsive and works reliably across modern browsers including Chrome, Firefox, and Edge.
 
-The following features were implemented as optional enhancements beyond the base assignment requirements.
+- **The following features were implemented as optional enhancements beyond the base assignment requirements.
 
 ##  Challenges & Solutions
 
